@@ -6,6 +6,7 @@ certifi                   2019.11.28               py37_0
 openssl                   1.1.1d               he774522_3  
 pip                       19.3.1                   py37_0  
 python                    3.7.6                h60c2a47_2  
+pywin32                   227              py37he774522_1  
 setuptools                44.0.0                   py37_0  
 sqlite                    3.30.1               he774522_0  
 vc                        14.1                 h0510ff6_4  
